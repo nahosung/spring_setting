@@ -22,6 +22,5 @@ hs_err_pid*
 #.project
 
 #hosung
-.settings/
-bin/
+#.settings/
 target/
