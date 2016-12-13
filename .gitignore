@@ -18,8 +18,8 @@ out/
 hs_err_pid*
 
 # eclipse
-.classpath
-.project
+#.classpath
+#.project
 
 #hosung
 .settings/
